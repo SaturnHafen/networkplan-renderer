@@ -1,6 +1,6 @@
 # networkplan-renderer
 
-Uses the xml-output of `nmap` to generate a (drawio)[https://app.diagrams.net/] diagram.
+Uses the xml-output of `nmap` to generate a [drawio](https://app.diagrams.net/) diagram.
 
 ## Usage
 
